@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BitString",
+      "request": "launch",
+      "mainClass": "BitString",
+      "projectName": "Introductory_ce796a56"
+    },
+    {
+      "type": "java",
+      "name": "TwoSet",
+      "request": "launch",
+      "mainClass": "TwoSet",
+      "projectName": "Introductory_ce796a56"
+    },
+    {
+      "type": "java",
       "name": "NumberSpiral",
       "request": "launch",
       "mainClass": "NumberSpiral",
