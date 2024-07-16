@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PalindromeReorder",
+      "request": "launch",
+      "mainClass": "PalindromeReorder",
+      "projectName": "Introductory_ce796a56"
+    },
+    {
+      "type": "java",
+      "name": "NQueens",
+      "request": "launch",
+      "mainClass": "NQueens",
+      "projectName": "Introductory_ce796a56"
+    },
+    {
+      "type": "java",
+      "name": "TrailingZeros",
+      "request": "launch",
+      "mainClass": "TrailingZeros",
+      "projectName": "Introductory_ce796a56"
+    },
+    {
+      "type": "java",
+      "name": "coinPiles",
+      "request": "launch",
+      "mainClass": "coinPiles",
+      "projectName": "Introductory_ce796a56"
+    },
+    {
+      "type": "java",
       "name": "BitString",
       "request": "launch",
       "mainClass": "BitString",
